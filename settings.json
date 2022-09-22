@@ -1,0 +1,7 @@
+{
+    "DEEZERARL" : "YOUR ARL HERE",
+    "SPOTIFYAUTH": {
+        "CLIENT_ID": "YOUR CLIENT_ID",
+        "CLIENT_SECRET": "YOUR CLIENT_SECRET"
+    }
+}
